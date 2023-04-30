@@ -1,9 +1,18 @@
 ******* Minesweeper Terminal Game ******
 
 ************************
-    Classes
+    Classes:
+    
+    --> Board:
+        --> Welcome Message
+        --> createBoard
+        --> assignValues
+        --> getNumNeighbouringBombs
+        --> displayBoard
+        --> dig
+       
 ************************
 
-Game:
-    - Welcome Screen
-    - 
+    Functions:
+    
+    ---> Play: loops through till player wins or loses
